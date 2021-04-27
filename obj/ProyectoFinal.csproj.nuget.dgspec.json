@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\ProyectoFinal\\ProyectoFinal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\BussinesLayer\\BussinesLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\BussinesLayer\\BussinesLayer.csproj",
+        "projectName": "BussinesLayer",
+        "projectPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\BussinesLayer\\BussinesLayer.csproj",
+        "packagesPath": "C:\\Users\\euryn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\BussinesLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\euryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj": {
+                "projectPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj",
+        "projectName": "DataBase",
+        "projectPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj",
+        "packagesPath": "C:\\Users\\euryn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\euryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\ProyectoFinal\\ProyectoFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectName": "ProyectoFinal",
+        "projectPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\ProyectoFinal\\ProyectoFinal.csproj",
+        "packagesPath": "C:\\Users\\euryn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\ProyectoFinal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\euryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\BussinesLayer\\BussinesLayer.csproj": {
+                "projectPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\BussinesLayer\\BussinesLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
