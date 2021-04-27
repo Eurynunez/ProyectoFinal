@@ -1,0 +1,12 @@
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\bin\Debug\net5.0\DataBase.deps.json
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\bin\Debug\net5.0\DataBase.dll
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\bin\Debug\net5.0\ref\DataBase.dll
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\bin\Debug\net5.0\DataBase.pdb
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\DataBase.csprojAssemblyReference.cache
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfo.cs
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\DataBase.dll
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\ref\DataBase.dll
+C:\Users\euryn\OneDrive\Escritorio\Programación 1\DataBase\obj\Debug\net5.0\DataBase.pdb
