@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj",
+      "projectUniqueName": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\Gestor de pacientes App\\DataBase\\DataBase.csproj",
       "projectName": "DataBase",
-      "projectPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj",
+      "projectPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\Gestor de pacientes App\\DataBase\\DataBase.csproj",
       "packagesPath": "C:\\Users\\euryn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\obj\\",
+      "outputPath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\Gestor de pacientes App\\DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\euryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -512,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -51,3 +51,6 @@ C:\Users\euryn\OneDrive\Escritorio\Programación 1\ProyectoFinal\bin\Debug\net5.
 C:\Users\euryn\OneDrive\Escritorio\Programación 1\ProyectoFinal\bin\Debug\net5.0-windows\DataBase.pdb
 C:\Users\euryn\OneDrive\Escritorio\Programación 1\ProyectoFinal\obj\Debug\net5.0-windows\ProyectoFinal.csproj.CopyComplete
 C:\Users\euryn\OneDrive\Escritorio\Programación 1\ProyectoFinal\obj\Debug\net5.0-windows\ProyectoFinal.Forms.Mantenimientos.ManttoCitas.FrmListadoMedicos.resources
+C:\Users\euryn\OneDrive\Escritorio\ProyectoFinal\obj\Debug\net5.0-windows\ProyectoFinal.dll
+C:\Users\euryn\OneDrive\Escritorio\ProyectoFinal\obj\Debug\net5.0-windows\ref\ProyectoFinal.dll
+C:\Users\euryn\OneDrive\Escritorio\ProyectoFinal\obj\Debug\net5.0-windows\ProyectoFinal.pdb

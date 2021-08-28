@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mrID9ZxUl/t+DFq01fKwJvC6wjpxZWmOT8bZ6pjFZ4SIdLtsyOqZLXLXlKNaI4XDSUkN7rTiPBguwd2jBKbySg==",
+  "dgSpecHash": "Pp8DQ/hP6bs2TXO+zgMtGjKy7Hy37o0Z1hoeueQvTzcc4Xs4YZpnjyHRLsAB7EOewh+OsdnpNlayH2sb3wwxNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\DataBase\\DataBase.csproj",
+  "projectFilePath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\Gestor de pacientes App\\DataBase\\DataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\euryn\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\euryn\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

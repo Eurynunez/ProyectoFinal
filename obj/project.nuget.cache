@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "bPGU4xMiCUqceOvMdCb9gwbn3OTtpipuUSJ/F92Kmoga5r5wlOCW2mig3UJM6CVofVxnRAuV+6fxTg852U4oFQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\Programación 1\\ProyectoFinal\\ProyectoFinal.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\euryn\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\euryn\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "3V0AlxHXR9NRC5Wp+l2JzS6iJa3zO4DiUMZ5OX9NYlNgvqLiNQnQO+Dc7CFmKskSM2BcXHdivhJaIHCwvinR9A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\euryn\\OneDrive\\Escritorio\\ProyectoFinal\\ProyectoFinal.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\euryn\\OneDrive\\Escritorio\\BussinesLayer\\BussinesLayer.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\euryn\\OneDrive\\Escritorio\\BussinesLayer\\BussinesLayer.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
 }
